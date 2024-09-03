@@ -46,6 +46,7 @@ module.exports = {
   SUDO,
   WORK_TYPE,
   SESSION_ID,
+  OWNER_NAME,
   STICKER_DATA,
   BOT_INFO,
   AUDIO_DATA,
